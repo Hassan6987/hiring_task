@@ -13,16 +13,16 @@ The project follows a modular structure for scalability:
 
 
 ## Getting Started
-Follow these steps to set up and run the project on your local device:
+Follow these steps to set up and run the project on your local device.
 
-   git clone https://github.com/Hassan6987/hiring_task.git
+   git clone https://github.com/Hassan6987/hiring_task.git.
    cd hiring_task
 
    
 Install dependencies:
-   flutter pub get
+   flutter pub get.
 Run the project:
-flutter run
+flutter run.
 
 
 
